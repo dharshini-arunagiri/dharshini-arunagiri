@@ -26,4 +26,4 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- Email: your-email@gmail.com
+- Email: dharshini2117@gmail.com@gmail.com
