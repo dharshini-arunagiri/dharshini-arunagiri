@@ -25,5 +25,5 @@ I am passionate about Artificial Intelligence, Machine Learning, Data Science, a
 - MLOps
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn: www.linkedin.com/in/dharshini-arunagiri-72b827380
 - Email: dharshini2117@gmail.com@gmail.com
