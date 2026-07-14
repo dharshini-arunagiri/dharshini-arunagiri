@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dharshini Arunagiri 👋
 
-<!--
-**dharshini-arunagiri/dharshini-arunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student at KPR Institute of Engineering and Technology
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy building real-world projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- Python
+- SQL
+- C Programming
+- HTML & CSS
+- Git & GitHub
+- Data Analysis
+- Machine Learning
+
+## 📂 Featured Projects
+- AI Resume Analyzer
+- Quantum-Inspired Traffic Optimization
+- Data Analysis Dashboard
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Deep Learning
+- MLOps
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- Email: your-email@gmail.com
