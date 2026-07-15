@@ -33,20 +33,11 @@ I am a passionate AI & Data Science student with a strong interest in Artificial
 - Data Analysis
 - Machine Learning
 - Microsoft Excel
+- MATLAB
 
 ---
 
 ## 📂 Projects
-
-### 🗳️ Voting Management System
-- Developed using Python.
-- Implements secure voter registration and vote casting.
-- Demonstrates file handling, functions, and basic database concepts.
-
-### 📰 Fake News Detection using R
-- Built a machine learning model in R Programming.
-- Performed text preprocessing and classification.
-- Applied data analysis techniques for prediction.
 
 ### 🚦 Quantum-Inspired Traffic Optimization
 - Team project focused on improving traffic flow using optimization concepts.
@@ -72,6 +63,10 @@ Aspiring AI Engineer passionate about developing intelligent systems that solve 
 
 ## 📜 Certifications
 
+- NPTEL Certification
+- MATLAB Certification
+- Participated in the Code Twin Coding Competition conducted at Karpagam College of Engineering.
+- Continuously learning through hands-on projects and technical practice.
 - Fortinet Certified Fundamentals in Cybersecurity *(In Progress)*
 - More certifications coming soon...
 
