@@ -43,6 +43,12 @@ I am a passionate AI & Data Science student with a strong interest in Artificial
 - Team project focused on improving traffic flow using optimization concepts.
 - Explored simulation-based approaches for traffic management.
 
+### 🗳️ Voting Management System
+- Team project-Developed using Python.
+- Implements secure voter registration and vote casting.
+- Demonstrates file handling, functions, and basic database concepts.
+
+
 ---
 
 ## 🌱 Currently Learning
