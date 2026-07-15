@@ -2,37 +2,84 @@
 
 🎓 B.Tech Artificial Intelligence & Data Science Student at KPR Institute of Engineering and Technology
 
+---
+
 ## 🚀 About Me
-I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy building real-world projects, solving problems, and continuously improving my technical skills.
+
+I am a passionate AI & Data Science student with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics, and Software Development. I enjoy building practical projects, learning new technologies, and continuously improving my problem-solving skills.
+
+---
 
 ## 💼 Internship Experience
-**E-commerce & Digital Marketing Intern | Seller Rocket**
-- Gained hands-on experience in e-commerce operations, product listing optimization, keyword research, campaign analysis, and digital marketing.
-- Worked with real-world business workflows and collaborated with cross-functional teams.
+
+### E-Commerce & Digital Marketing Intern
+**Seller Rocket**
+
+- Gained hands-on experience in e-commerce operations and digital marketing.
+- Worked on product listing optimization and keyword research.
+- Learned campaign management and business workflow analysis.
+- Collaborated with teams to understand real-world business processes.
+
+---
 
 ## 💻 Technical Skills
+
 - Python
+- R Programming
 - SQL
 - C Programming
 - HTML & CSS
 - Git & GitHub
 - Data Analysis
 - Machine Learning
+- Microsoft Excel
 
-## 📂 Featured Projects
-- AI Resume Analyzer *(In Progress)*
-- Quantum-Inspired Traffic Optimization
-- Data Analysis Dashboard *(Coming Soon)*
+---
+
+## 📂 Projects
+
+### 🗳️ Voting Management System
+- Developed using Python.
+- Implements secure voter registration and vote casting.
+- Demonstrates file handling, functions, and basic database concepts.
+
+### 📰 Fake News Detection using R
+- Built a machine learning model in R Programming.
+- Performed text preprocessing and classification.
+- Applied data analysis techniques for prediction.
+
+### 🚦 Quantum-Inspired Traffic Optimization
+- Team project focused on improving traffic flow using optimization concepts.
+- Explored simulation-based approaches for traffic management.
+
+---
 
 ## 🌱 Currently Learning
+
 - Data Structures & Algorithms
-- Machine Learning
 - Deep Learning
 - MLOps
+- Data Visualization
+- System Design
 
-## 🎯 Career Goal
-Aspiring AI Engineer passionate about building intelligent, scalable, and impactful AI solutions.
+---
+
+## 🎯 Career Objective
+
+Aspiring AI Engineer passionate about developing intelligent systems that solve real-world problems through Artificial Intelligence, Data Science, and Machine Learning.
+
+---
+
+## 📜 Certifications
+
+- Fortinet Certified Fundamentals in Cybersecurity *(In Progress)*
+- More certifications coming soon...
+
+---
 
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/dharshini-arunagiri-72b827380
-- Email: dharshini2117@gmail.com@gmail.com
+- GitHub: https://github.com/dharshini-arunagiri
+- Email: dharshini2117@gmail.com
+
+- ⭐ Thank you for visiting my profile!
